@@ -1,0 +1,9 @@
+name: Hello
+on:
+  workflow_dispatch:
+jobs:
+  hi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: say hi
+        run: echo hello && uname -a
