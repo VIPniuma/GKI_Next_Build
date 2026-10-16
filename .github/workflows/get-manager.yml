@@ -1,3 +1,4 @@
+# ci-scan
 name: GetManager
 permissions:
   contents: write

@@ -1,3 +1,4 @@
+# ci-scan
 name: Android 内核构建-自定义
 
 permissions:

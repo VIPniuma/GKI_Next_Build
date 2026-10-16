@@ -1,3 +1,4 @@
+# ci-scan
 name: SUSFS 原始补丁探测
 
 # 这是放在默认分支上的空壳：GitHub 只列出默认分支上存在的 workflow_dispatch 工作流。

@@ -1,3 +1,4 @@
+# ci-scan
 name: Auto Trigger on SukiSU Update
 
 on:

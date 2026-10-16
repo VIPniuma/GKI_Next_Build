@@ -1,3 +1,4 @@
+# ci-scan
 name: Emergency Release Cleanup
 
 on:
